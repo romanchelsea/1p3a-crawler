@@ -1,0 +1,7 @@
+---
+# Default configuration
+url: https://www.1point3acres.com/member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+data:
+  username: muyfuerte
+  password:
+  cookietime: 2592000
